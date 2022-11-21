@@ -3,5 +3,5 @@ result = []
 for item in data:
     if item not in result:
         result.append(item)
+print(result)
         
-result
